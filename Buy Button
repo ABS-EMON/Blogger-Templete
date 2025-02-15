@@ -1,0 +1,16 @@
+
+##Add Buy Button:
+{getProduct} $button={Buy Now}
+$price={$19.00}
+
+
+{getProduct} $button={Buy Now}
+$price={$19.00} $sale={30% off}
+
+
+{getProduct} $button={Buy Now}
+$price={Free} $free={yes}$icon={gift}
+
+
+
+
